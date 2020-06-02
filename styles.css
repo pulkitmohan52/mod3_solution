@@ -1,0 +1,35 @@
+body{
+	background-color: #61122f;
+}
+#header-nav{
+	background-color: red;		/*yellowish*/
+	border:0;
+	border-radius: 0;
+}
+#header-nav a{
+	text-decoration: none;
+}
+.navbar-header h1{
+	color: #557c3e;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #61122f;	/*this will give the maroon colors to the lines of the mobile button view in the website*/
+}
+.navbar-header button{
+	margin-top: 8px;
+}
+#nav-list a{
+	text-align: center;
+	font-size: 1.6em;
+	color: #61122f;
+}
+h1{
+	color: #000;
+}
+#para{
+	background-color: #DDA0DD;
+	height: 1000px;
+	font-size: 1.4em;
+	margin:10px;
+	border:2px solid black;
+}
